@@ -1,0 +1,21 @@
+body {
+    font-family: 'Times New Roman';
+    color: #000000;
+    background: #96d9f4;
+}
+.navbar {
+    margin-bottom: 20px;
+}
+.profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #2ddce8;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
